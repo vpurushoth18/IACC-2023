@@ -1,0 +1,7 @@
+,,original
+Precision,Mean,73.18496785
+Precision,stdev,3.248732997
+Recall,Mean,71.7
+Recall,stdev,2.551304838
+F1-Score,Mean,72.08161445
+F1-Score,stdev,2.833101682
